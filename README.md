@@ -1,24 +1,16 @@
-# README
+# Rails Vuejs Example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Docs
+ - https://rlafranchi.github.io/2016/03/09/vuejs-and-rails/?utm_source=rubyweekly&utm_medium=email
+ - https://gorails.com/episodes/using-webpack-in-rails-with-webpacker-gem
+ - https://github.com/rails/webpacker
+ - https://medium.com/statuscode/introducing-webpacker-7136d66cddfb
+ - http://blog.arkency.com/2015/10/creating-custom-heroku-buildpack-for-webpack-and-ruby-on-rails-integration/
+ - https://vuejs.org/v2/guide/
+ - https://vuejs.org/v2/examples/index.html
+ - http://underscorejs.org/
+ - https://github.com/chjj/marked
+ - https://highlightjs.org/
+ - http://shuheikagawa.com/blog/2015/09/21/using-highlight-js-with-marked/
+ - http://pixelatedworks.com/articles/replacing-the-rails-asset-pipeline-with-webpack-and-yarn/
+ - 
