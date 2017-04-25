@@ -1,7 +1,7 @@
 # Rails Vuejs Example
 
 ## Docs
- - https://rlafranchi.github.io/2016/03/09/vuejs-and-rails/?utm_source=rubyweekly&utm_medium=email
+ - https://rlafranchi.github.io/2016/03/09/vuejs-and-rails/
  - https://gorails.com/episodes/using-webpack-in-rails-with-webpacker-gem
  - https://github.com/rails/webpacker
  - https://medium.com/statuscode/introducing-webpacker-7136d66cddfb
@@ -13,4 +13,3 @@
  - https://highlightjs.org/
  - http://shuheikagawa.com/blog/2015/09/21/using-highlight-js-with-marked/
  - http://pixelatedworks.com/articles/replacing-the-rails-asset-pipeline-with-webpack-and-yarn/
- - 
